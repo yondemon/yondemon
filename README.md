@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Pablo Rodríguez Monedero.
+
+- I am web developer with a lot of interests outside programming.
+- 🔭 I’m currently working at [KairosDS](https://github.com/KairosDS).
+- 🍻 Co-founder of [Betabeers](https://github.com/betabeers).
+- You can reach me at Twitter [@yondemon](https://twitter.com/yondemon).
+
+## My tech stack
+- Front: React or Vanilla JS. (Yes, I have used jQuery).
+- Back: PHP, Node.js.
+- Databases: MySQL, MongoDB, PostgreSQL.
+- SO: Linux or Mac.
 
 <!--
 **yondemon/yondemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
