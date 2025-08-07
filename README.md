@@ -1,15 +1,18 @@
 ### Hi there 👋 I am Pablo Rodríguez Monedero.
 
 - I am web developer with a lot of interests outside programming.
-- 🔭 I’m currently working at [KairosDS](https://github.com/KairosDS).
+- 🔭 I’m currently freelance for hire.
 - 🍻 Co-founder of [Betabeers](https://github.com/betabeers).
-- You can reach me at Twitter [@yondemon](https://twitter.com/yondemon).
+- 🎭 Improv player at [ImproImpar](https://improimpar.com/)
+- You can reach me at BlueSky [@yondemon.bsky.social](https://bsky.app/profile/yondemon.bsky.social) (or maybe on Twitter [@yondemon](https://twitter.com/yondemon)).
 
 ## My tech stack
 - Front: React or Vanilla JS. (Yes, I have used jQuery).
-- Back: PHP, Node.js.
+- Back: PHP (Laravel, Symfony), Node.js.
 - Databases: MySQL, MongoDB, PostgreSQL.
 - SO: Linux or Mac.
+
+- 💬 Ask me about Loom... or Improv or Communities...
 
 <!--
 **yondemon/yondemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
